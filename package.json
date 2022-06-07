@@ -13,7 +13,7 @@
   },
   "dependencies": {
       "cheerio": "0.15.x",
-      "async": "0.8.x",
+      "async": "3.2.x",
       "mailparser": "0.5.3",
       "micro-strptime": "0.2.x",
       "named-regexp" : "0.1.x"
